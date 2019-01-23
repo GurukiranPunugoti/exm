@@ -3,5 +3,4 @@ exmpl
 git hub
 
 finally
-
-.
+list of companies.
