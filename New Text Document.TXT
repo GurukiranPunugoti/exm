@@ -1,3 +1,7 @@
 welcome to clocktick.
 exmpl
 git hub
+
+finally
+
+.
